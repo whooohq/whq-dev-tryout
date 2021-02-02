@@ -21,15 +21,13 @@ Check the ```Assets``` folder for the required assets.
 9. Don't need to make any internal page or extras. Links, like the menus, can just point to an empty # anchor. Again, we don't want to extend this test any longer for you. If you like, you can link menu items with anchors and auto-scroll to the corresponding section on the same home page, like a single page site. This is just optional.
 10. Remember point 4, please. We are interested in seeing your general WordPress development skills. So please, code your own HTML/CSS/JS, use WP's features and try to follow [WP's coding standars](https://make.wordpress.org/core/handbook/best-practices/coding-standards/). This is important. Not knowing nor use WP's enqueue scripts, for example, is a no-no for us.
 
-This tryout shouldn't take more than 60 minutes to complete, if you know how a basic WordPress theme works.
-
-Check the two methods on how to start to know more.
-
 ## Do your Tryout
 
 You will have to have your own local development environment ready to work. If you don't have one, we recommend to use [Local WP](https://localwp.com/).
 
 Install you own WordPress locally, use the required theme, use the optional plugins, don't forget the rules, and... go for it!.
+
+This tryout shouldn't take more than 60 minutes to complete, if you know how to develop a basic WordPress theme.
 
 ## Deliver your Tryout
 
