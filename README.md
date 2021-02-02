@@ -8,6 +8,8 @@ Here is the design [in Figma](https://www.figma.com/proto/IBWdfY1kJcdPe4yd285QYI
 
 Check the ```Assets``` folder for the required assets.
 
+This tryout shouldn't take more than 60 minutes to complete, if you know how to develop a basic WordPress theme.
+
 ## Rules
 
 1. It must be responsive. Need to look like the screenshot on Desktop, but it also need to adapt to Mobile without issues.
@@ -26,8 +28,6 @@ Check the ```Assets``` folder for the required assets.
 You will have to have your own local development environment ready to work. If you don't have one, we recommend to use [Local WP](https://localwp.com/).
 
 Install you own WordPress locally, use the required theme, use the optional plugins, don't forget the rules, and... go for it!.
-
-This tryout shouldn't take more than 60 minutes to complete, if you know how to develop a basic WordPress theme.
 
 ## Deliver your Tryout
 
