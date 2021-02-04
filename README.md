@@ -2,7 +2,7 @@
 
 ## What you need to do
 
-You need to replicate [this layout (here)](https://github.com/whooohq/whq-dev-tryout/blob/master/whqdevtryout-demo.png?raw=true) as a homepage in a WordPress instance.
+You need to replicate [this layout (here)](https://github.com/whooohq/whq-dev-tryout/blob/master/whqdevtryout-demo.png?raw=true) as a homepage in a WordPress instance, creating your own theme (from Underscores).
 
 Here is the design [in Figma](https://www.figma.com/proto/IBWdfY1kJcdPe4yd285QYI/Prueba?node-id=0%3A3&scaling=min-zoom).
 
@@ -13,7 +13,7 @@ This tryout shouldn't take more than 60 minutes to complete, if you know how to 
 ## Rules
 
 1. It must be responsive. Need to look like the screenshot on Desktop, but it also need to adapt to Mobile without issues.
-2. You have to use [Underscores](https://underscores.me) as a theme. Go to [Underscores](https://underscores.me) site and generate your own theme there. Hack and modify it as you like it after generating one.
+2. You have to use [Underscores](https://underscores.me) as a base for your theme. Go to [Underscores](https://underscores.me) site and generate your own theme there. Hack and modify it as you like it after generating one. Make it your own.
 3. For your CSS needs you will have to use [Bootstrap 4 or 5](https://getbootstrap.com/). That's mandatory. We use it as Agency. Beside that, nothing more for this test.  Just keep it simple, there's no need to use a CSS Pre-processor or a complex JS Framework.
 4. Must use as much as WP's capabilities as you need. Privilege WP's built-in features, like Pages, meta-boxes, posts, menus, Gutenberg blocks, etc. Use all the built in functions/methods and utilities for theme development that WP already provides, like functions for doing a proper theme URL call for your assets, proper scripts and CSS enqueue, etc.
 5. If needed, use the included ACF Pro plugin in this repo to extend WP's capabitilies to acomplish your vision. For example, to create [meta-boxes for the Home Page](https://www.advancedcustomfields.com/resources/adding-fields-posts/), to build some [Gutenberg blocks](https://www.advancedcustomfields.com/resources/blocks/), theme option pages, etc. What you need to accomplish the task. Don't need to go crazy creating a full page-builder experience with Gutenberg if you choose that path. Just the basic blocks to construct the Figma demo.
